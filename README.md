@@ -27,3 +27,7 @@ Indonesian - id
 ## Target language
 
 English - en
+
+## For more details
+
+https://github.com/abdfahmi07/language-translation-cli-app - Github Repository
